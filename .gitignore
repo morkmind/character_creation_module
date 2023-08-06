@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Mac things 
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.idea
+*.pyc
+questions.txt
+.venv
+.DS_Store
+[Dd]esktop.ini
+/*.iml
+Thumbs.db
+
