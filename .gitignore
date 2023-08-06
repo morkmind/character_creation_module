@@ -144,4 +144,4 @@ questions.txt
 [Dd]esktop.ini
 /*.iml
 Thumbs.db
-
+.vscode/
